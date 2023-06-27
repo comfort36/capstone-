@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+}
+h2{
+    color: white;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:medium
+    /* margin-top: 25%; */
+    
+    
+}
+p{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2%;
+    font-weight: 50%;
+    margin-top: 1.5%;
+    
+}
+.division{
+    margin-top: 20%;
+    margin-bottom: 15%;
+    
+}
+
+
